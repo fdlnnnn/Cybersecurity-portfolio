@@ -27,7 +27,12 @@ Certification Bootcamp Graduate (in Progress)
 
 **Training:** Tryhackme, OWASP Juice shop, DVWA.
 
+-----
+
 # Project Experience
+**Project 1**
+
+Penilaian Kerentanan Pada Aplikasi Web E-Commerce.
 
 
 
