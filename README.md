@@ -1,29 +1,35 @@
 # Cybersecurity-portfolio
-**About Me**
-Halo saya Muh. Fadlan Risqullah Dwitama N, biasa dipanggil Fadlan. Saya seorang Sarjana Komputer dari Universitas Muslim Indonesia (UMI) Makassar, yang memilki fokus karier di dunia Penetration Testing. Melalui pelatihan bootcamp cybersecurity yang mendalam Dibimbing.id, fokus utama saya adalah menguji keamanan aplikasi web dan menemukan celah keamanan sebelum dieksploitasi oleh pihak yang tidak bertanggung jawab. Saya menganalisis kerentanan berbasis OWASP top 10. Bagi saya Penetration Testing bukan hanya bagaimana membobol sebuah sistem, tetapi bagaimana memberikan rekomendasi mitigasi yang tepat agar aset digital tetap aman.
+------
+# About Me
+Halo saya Muh. Fadlan Risqullah Dwitama N, biasa dipanggil Fadlan. Saya seorang Sarjana Komputer dari Universitas Muslim Indonesia (UMI) Makassar, yang memilki fokus karier di dunia Cybersecurity. Melalui pelatihan bootcamp cybersecurity yang mendalam Dibimbing.id, saya menguasai berbagai metodologi penetration testing, manajemen resiko kerentanan software, dan administrasi sistem Linux. Saya merupakan seorang yang analitis, adabtif, dan mampu mengomunikasikan temuan yang teknis. Saat ini saya terbuka untuk peluang karier sebagai junior penetration testing, security analyst, dan terkait dengan industri keamanan cyber. **Funfact** saya juga gemar melakukan aktifitas bermusik, melukis, bermain game, dan belajar hal-hal yang baru.
 
 -----
 
 # Technical-Skills
-**--Offensive Security--**
-**Web Application Pentesting:** Fokus pada identifikasi dan eksploitasi celah keamanan berdasarkan standar OWASP Top 10.
+**Tools:**
 
-**Vulnerabiliti Assessment:** Melakukan analisis kerentanan sistem secara terstruktur untuk menemukan titik lemah pada aplikasi target.
+**Network Analysis:** Wireshark
 
-**--Tools & Frameworks--**
- **Interception & Proxy:** Burp Suite (menganalisis dan memanipulasi request HTTP).
- 
- **Scanning & Recon:** Nmap (network mapping), dirb (mencari directory sensitif).
- 
- **Exploitation Automation:** SQLmap (menguji celah keamanan databases (SQLInjetion)).
+**Penetration Testing:** Metasploit, Burp Suite, Kali Linux, Nmap, Nikto
 
- **--Infrastructure & OS--**
- **Oparation System:** Kali Linux ( Kerja utama untuk pentesting).
- 
- **Virtualization & Lab Management:** VirtualBox (Berpengalaman dalam konfigurasi lab pengujian, manajemen penyimpanan, dan troubleshooting OS Linux).
- 
+**Malware Analysis:** Cuckoo Sandbox, Virus Total
+
+**SIEM Tools:** WAZUH
+
+**Programing Languages:**
+* Bash
+* Golang
+
 -----
 
-# Captured Vulnerabilities
-**SQLInjection**
-Temuan ini berada difitur transaksi, tepatnya proses *checkout* pada aplikasi web *E-commerce*.
+# Certification & Training
+Certification Bootcamp Graduate (in Progress)
+
+**Training:** Tryhackme, OWASP Juice shop, DVWA.
+
+# Project Experience
+
+
+
+
+
