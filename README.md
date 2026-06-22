@@ -34,6 +34,10 @@ Certification Bootcamp Graduate (in Progress)
 
 Penilaian Kerentanan Pada Aplikasi Web E-Commerce.
 
+* Tujuan: Menemukan celah keamanan sistem pada aplikasi web, untuk mengidentifikasi dan memitigasi resiko keamanan.
+* Tools: Nmap, dirb, burp suite.
+
+-- Metodologi:
 
 
 
