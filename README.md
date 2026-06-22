@@ -1,7 +1,8 @@
 # Cybersecurity-portfolio
-**portfolio cybersecurity Muh Fadlan Risqullah Dwitama N**
------
+**About Me**
 Halo saya Muh. Fadlan Risqullah Dwitama N, biasa dipanggil Fadlan. Saya seorang Sarjana Komputer dari Universitas Muslim Indonesia (UMI) Makassar, yang memilki fokus karier di dunia Penetration Testing. Melalui pelatihan bootcamp cybersecurity yang mendalam Dibimbing.id, fokus utama saya adalah menguji keamanan aplikasi web dan menemukan celah keamanan sebelum dieksploitasi oleh pihak yang tidak bertanggung jawab. Saya menganalisis kerentanan berbasis OWASP top 10. Bagi saya Penetration Testing bukan hanya bagaimana membobol sebuah sistem, tetapi bagaimana memberikan rekomendasi mitigasi yang tepat agar aset digital tetap aman.
+
+-----
 
 # Technical-Skills
 **--Offensive Security--**
@@ -21,3 +22,8 @@ Halo saya Muh. Fadlan Risqullah Dwitama N, biasa dipanggil Fadlan. Saya seorang 
  
  **Virtualization & Lab Management:** VirtualBox (Berpengalaman dalam konfigurasi lab pengujian, manajemen penyimpanan, dan troubleshooting OS Linux).
  
+-----
+
+# Captured Vulnerabilities
+**SQLInjection**
+Temuan ini berada difitur transaksi, tepatnya proses *checkout* pada aplikasi web *E-commerce*.
